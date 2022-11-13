@@ -1,1 +1,1 @@
-# SPJP-1
+# Repozytorium do zadań z laboratoriów SPJP
