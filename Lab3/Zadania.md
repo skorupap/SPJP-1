@@ -6,11 +6,11 @@ Zakładamy konto na stronie GitHub i zakładamy repozytorium w którym będziemy
 
 Po założeniu konta wchodzimy na repozytorium (https://github.com/ZakrzewskiM30/SPJP) i dopisujemy się do listy zgodnie z przykładem
 
-## Zadanie 1
+## Zadanie 1 ✅
 
 Napisz program który wypisze na ekranie napis "Hello, World!"
 
-## Zadanie 2
+## Zadanie 2 ✅
 
 Napisz program który pobierze od użytkownika dwie liczby i zwróci wynik ich:  
 dodawaia  
