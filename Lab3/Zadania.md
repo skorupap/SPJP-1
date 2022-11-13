@@ -1,6 +1,6 @@
 # Zadania lab 3
 
-## Zadanie 0
+## Zadanie 0 ✅
 
 Zakładamy konto na stronie GitHub i zakładamy repozytorium w którym będziemy pracować na pozostałych zajęciach.
 
