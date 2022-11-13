@@ -19,7 +19,7 @@ mnożenia
 dzielenia  
 resztę z dzielenia
 
-## Zadanie 3
+## Zadanie 3 ✅
 
 Napisz program który pobierze od użytkownika dwie liczby i zwróci większą z nich.
 
