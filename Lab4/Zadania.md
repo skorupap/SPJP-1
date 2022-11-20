@@ -1,10 +1,10 @@
 # Zadania lab 4
 
-## Zadanie 1
+## Zadanie 1 ✅
 
 Napisz program który dla podanej liczby naturalnej `n` zwróci sumę kwadratów liczb `od 1 do n`.
 
-## Zadanie 2
+## Zadanie 2 ✅
 
 Napisz program który wczyta od użytkownika parę liczb naturalnych `a,b` i zwróci wynik działania `a do potęgi b`. W rozwiązaniu nie kożystaj z potęgowania.
 
