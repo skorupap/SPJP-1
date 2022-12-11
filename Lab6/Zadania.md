@@ -20,7 +20,7 @@ Napisz funkcję rekurencyjną obliczający n-ty wyraz ciągu Fibonacciego.
 ## Zadanie 5 ✅
 Za pomocą funkcji rekurencyjnej napisz program, który dla podanej liczby dziesiętnej wypisze na ekren tę liczbę w postaci binarnej. 
 
-## Zadanie 6 
+## Zadanie 6 ✅
 
 Napisz funkcję rekurencyjną obliczającą sumę cyfr podanej liczby. 
 
