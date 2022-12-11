@@ -17,7 +17,7 @@ Napisz funkcję rekurencyjną która dla podanej liczby n wypisze wszystkie licz
 ## Zadanie 4 ✅
 Napisz funkcję rekurencyjną obliczający n-ty wyraz ciągu Fibonacciego. 
 
-## Zadanie 5 
+## Zadanie 5 ✅
 Za pomocą funkcji rekurencyjnej napisz program, który dla podanej liczby dziesiętnej wypisze na ekren tę liczbę w postaci binarnej. 
 
 ## Zadanie 6 

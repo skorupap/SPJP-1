@@ -10,7 +10,7 @@ int fib(int a)
 
 int main(){
     int a;
-    printf("Podaj nr wyrazu ciagu: ");
+    printf("Podaj nr wyrazu ciagu fib: ");
     scanf("%d",&a);
     printf("fib(%d) = %d\n",a,fib(a));
 }
