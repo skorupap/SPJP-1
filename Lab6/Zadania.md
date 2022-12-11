@@ -2,19 +2,19 @@
 
 Na tych zajęciach nie korzystaj z pętli!!! 
 
-## Zadanie 1 
+## Zadanie 1 ✅
 
 Napisz funkcję rekurencyjną obliczającą n!. 
 
-## Zadanie 2 
+## Zadanie 2 ✅
 
 Napisz funkcję rekurencyjną implementującą algorytm Euklidesa obliczający NWD. 
 
-## Zadanie 3 
+## Zadanie 3 ✅
 
 Napisz funkcję rekurencyjną która dla podanej liczby n wypisze wszystkie liczby z całkowite z przedziału [1, 2, … ,n]. 
 
-## Zadanie 4 
+## Zadanie 4 ✅
 Napisz funkcję rekurencyjną obliczający n-ty wyraz ciągu Fibonacciego. 
 
 ## Zadanie 5 
