@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-void zamien(int* a, int* b) {
+void zamien(int* a, int* b){
   int tmp = *a;
   *a = *b;
   *b = tmp;
 }
 
-int main(void) {
+int main(){
   int x = 10;
   int y = 20;
 

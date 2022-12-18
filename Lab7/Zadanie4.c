@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int max_zero(int *tab, int size) {
+int max_zero(int *tab, int size){
     int max = tab[0];
     int max_index = 0;
 
@@ -15,7 +15,7 @@ int max_zero(int *tab, int size) {
     return max;
 }
 
-int main() {
+int main(){
     int rt,n=0;
 
     printf("Podaj ilosc elementow w tablicy: ");
