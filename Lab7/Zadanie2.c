@@ -10,8 +10,8 @@ int main(){
 
     printf("Elementy tablicy: \n");
     for (int i=0; i<10; i++) {
-        int * p = &tab[i];
-        printf("%d ", * p);
+        int* p = &tab[i];
+        printf("%d ", *p);
     }
     
     printf("\n");
