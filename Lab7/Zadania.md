@@ -22,7 +22,7 @@ Napisz funkcję która przyjmuje wskaźniki na trzy liczby `a, b, c` posortuje w
 
 ## Zadanie 6
 
-Napisz funkcję która przyjuje wskaźnik na pierwszy i ostatni element tablicy liczb typu `int`. Funkcja powinna na podstawie wskaźników obliczyć rozmiar tablicy `n` i wypełnić ją liczbami od 1 do n.
+Napisz funkcję która przyjmuje wskaźnik na pierwszy i ostatni element tablicy liczb typu `int`. Funkcja powinna na podstawie wskaźników obliczyć rozmiar tablicy `n` i wypełnić ją liczbami od 1 do n.
 
 ## Powtórka
 
