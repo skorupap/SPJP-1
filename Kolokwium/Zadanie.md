@@ -6,7 +6,7 @@ W programie powinna znajdować się zmienna globalna n informująca, ile liczb z
 
 Sama tablica powinna być zadeklarowana dla `20` liczb, ale nie powinna być globalna.  
 
-Głównym elementem funkcji `main` powinna być nieskończona pętla, w której za pomocą instrukcji `case/switch` program prosi użytkownika o wybranie liczby odpowiadającej następnej akcji. 
+Głównym elementem funkcji `main` powinna być nieskończona pętla, w której za pomocą instrukcji `case/switch` program prosi użytkownika o wybranie litery odpowiadającej następnej akcji. 
 
  Jeśli użytkownik wybierze `e` program powinien zakończyć działanie.  
 
